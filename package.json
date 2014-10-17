@@ -1,0 +1,34 @@
+{
+  "name": "grunt-jsinspect",
+  "description": "Detect copy-pasted and structurally similar code with JSInspect.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/riemi-nie/grunt-jsinspect",
+  "author": {
+    "name": "Sebastian Riemschüssel",
+    "url": "https://github.com/riemi-nie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riemi-nie/grunt-jsinspect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/riemi-nie/grunt-jsinspect/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/riemi-nie/grunt-jsinspect/blob/master/LICENSE-MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-readme": "~0.3.0",
+    "grunt-repos": "~0.1.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.7.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "grunt task",
+    "assemble"
+  ]
+}
